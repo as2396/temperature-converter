@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="tempValue">From</string>
+    <string name="tempUnit">To</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="rankine">Rankine</string>
+    <string name="convert_button">Convert</string>
+
+</resources>
